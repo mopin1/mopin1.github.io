@@ -11,7 +11,7 @@ github_repo: "https://github.com/mopin1/mopin1.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                                # 是否开启侧边栏.
-sidebar-about-description: "Phew~"     # 瞎比比
+sidebar-about-description: "Where there is a will, there is a way."     # 瞎比比
 sidebar-avatar: /img/mopin1.png      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/mopin1.png      # 你的个人头像 这里你可以改成�
 # SNS settings
 RSS: false
 weibo_username:     mopin1
-zhihu_username:     陌颦
+zhihu_username:     mopin1
 github_username:    mopin1
 #facebook_username:  username
 #jianshu_username:   username
